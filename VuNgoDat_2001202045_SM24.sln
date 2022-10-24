@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi2", "Buoi2\Buoi2.csproj", "{F5DE8E0A-BB80-44F1-ADD2-12776CE9CDCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi4_BTTL", "BTTL\Buoi4_BTTL.csproj", "{202F71D5-D239-4356-852D-3009DA560383}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi6", "Buoi6\Buoi6.csproj", "{2F656C9E-94E1-42D7-8486-45848C9F0F51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5DE8E0A-BB80-44F1-ADD2-12776CE9CDCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5DE8E0A-BB80-44F1-ADD2-12776CE9CDCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5DE8E0A-BB80-44F1-ADD2-12776CE9CDCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5DE8E0A-BB80-44F1-ADD2-12776CE9CDCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{202F71D5-D239-4356-852D-3009DA560383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{202F71D5-D239-4356-852D-3009DA560383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{202F71D5-D239-4356-852D-3009DA560383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{202F71D5-D239-4356-852D-3009DA560383}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F656C9E-94E1-42D7-8486-45848C9F0F51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F656C9E-94E1-42D7-8486-45848C9F0F51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F656C9E-94E1-42D7-8486-45848C9F0F51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F656C9E-94E1-42D7-8486-45848C9F0F51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

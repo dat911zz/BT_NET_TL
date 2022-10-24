@@ -1,0 +1,11 @@
+E:\LuuDuLieuSinhVien\VuNgoDat_2001202045_SM24\Buoi6\bin\Debug\Buoi6.exe.config
+E:\LuuDuLieuSinhVien\VuNgoDat_2001202045_SM24\Buoi6\bin\Debug\Buoi6.exe
+E:\LuuDuLieuSinhVien\VuNgoDat_2001202045_SM24\Buoi6\bin\Debug\Buoi6.pdb
+E:\LuuDuLieuSinhVien\VuNgoDat_2001202045_SM24\Buoi6\obj\Debug\Buoi6.B1.resources
+E:\LuuDuLieuSinhVien\VuNgoDat_2001202045_SM24\Buoi6\obj\Debug\Buoi6.Menu.resources
+E:\LuuDuLieuSinhVien\VuNgoDat_2001202045_SM24\Buoi6\obj\Debug\Buoi6.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\VuNgoDat_2001202045_SM24\Buoi6\obj\Debug\Buoi6.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\VuNgoDat_2001202045_SM24\Buoi6\obj\Debug\Buoi6.exe
+E:\LuuDuLieuSinhVien\VuNgoDat_2001202045_SM24\Buoi6\obj\Debug\Buoi6.pdb
+E:\LuuDuLieuSinhVien\VuNgoDat_2001202045_SM24\Buoi6\obj\Debug\Buoi6.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\VuNgoDat_2001202045_SM24\Buoi6\obj\Debug\Buoi6.B2.resources

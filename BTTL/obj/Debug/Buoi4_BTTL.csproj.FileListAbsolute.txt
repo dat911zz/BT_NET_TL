@@ -1,0 +1,11 @@
+E:\LuuDuLieuSinhVien\VuNgoDat_2001202045_SM24\BTTL\bin\Debug\BTTL.exe.config
+E:\LuuDuLieuSinhVien\VuNgoDat_2001202045_SM24\BTTL\bin\Debug\BTTL.exe
+E:\LuuDuLieuSinhVien\VuNgoDat_2001202045_SM24\BTTL\bin\Debug\BTTL.pdb
+E:\LuuDuLieuSinhVien\VuNgoDat_2001202045_SM24\BTTL\obj\Debug\Buoi4_BTTL.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\VuNgoDat_2001202045_SM24\BTTL\obj\Debug\BTTL.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\VuNgoDat_2001202045_SM24\BTTL\obj\Debug\Buoi4_BTTL.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\VuNgoDat_2001202045_SM24\BTTL\obj\Debug\BTTL.exe
+E:\LuuDuLieuSinhVien\VuNgoDat_2001202045_SM24\BTTL\obj\Debug\BTTL.pdb
+E:\LuuDuLieuSinhVien\VuNgoDat_2001202045_SM24\BTTL\obj\Debug\BTTL.UsingListBox.resources
+E:\LuuDuLieuSinhVien\VuNgoDat_2001202045_SM24\BTTL\obj\Debug\BTTL.B2.resources
+E:\LuuDuLieuSinhVien\VuNgoDat_2001202045_SM24\BTTL\obj\Debug\BTTL.Menu.resources

@@ -1,0 +1,6 @@
+E:\LuuDuLieuSinhVien\VuNgoDat_2001202045_SM24\Buoi2\bin\Debug\Buoi2.exe.config
+E:\LuuDuLieuSinhVien\VuNgoDat_2001202045_SM24\Buoi2\bin\Debug\Buoi2.exe
+E:\LuuDuLieuSinhVien\VuNgoDat_2001202045_SM24\Buoi2\bin\Debug\Buoi2.pdb
+E:\LuuDuLieuSinhVien\VuNgoDat_2001202045_SM24\Buoi2\obj\Debug\Buoi2.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\VuNgoDat_2001202045_SM24\Buoi2\obj\Debug\Buoi2.exe
+E:\LuuDuLieuSinhVien\VuNgoDat_2001202045_SM24\Buoi2\obj\Debug\Buoi2.pdb
